@@ -1,0 +1,16 @@
+streamlit
+
+langchain
+
+langchain_community
+
+langchain_groq
+
+python-dotenv
+
+openai
+
+langchain_huggingface
+
+wikipedia
+numexpr
